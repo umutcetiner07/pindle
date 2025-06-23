@@ -1,0 +1,1 @@
+<template><div id='app'><h1>Pindle is Live</h1></div></template><script>export default {}</script>
